@@ -2,7 +2,6 @@
 
 # Hi there, I'm Wambo! 👋🏽
 
-![@Wambo-bit]
 
 
 ## About Me 🚀
