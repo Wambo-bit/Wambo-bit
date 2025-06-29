@@ -2,7 +2,7 @@
 
 # Hi there, I'm Wambo! 👋🏽
 
-![@Wambo-bit](https://github.com/user-attachments/assets/dd30a6ad-88e3-470b-b64f-838fedf56cf5)
+![@Wambo-bit]
 
 
 ## About Me 🚀
