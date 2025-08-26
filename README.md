@@ -30,12 +30,11 @@ I am passionate about working on projects related to:
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=express&logoColor=white"/>
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
+    
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -46,24 +45,21 @@ I am passionate about working on projects related to:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Wambo-bit&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wambo-bit&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
 ## 🌱 Current Learning Journey  
-- Mastering **Backend Development (Node.js, Express, Databases)**  
+- Mastering **Backend Development (Python, Django,Databases)**  
 - Building **Responsive Frontend Interfaces (React, CSS Grid/Flexbox)**  
-- Exploring **Cloud Deployment and DevOps**  
 
 ---
 
 ## 💡 Projects Showcase  
 Here are some of the projects I’m working on:  
-- 🔹 **[Project Name 1](#)** – Short description (tech stack)  
-- 🔹 **[Project Name 2](#)** – Short description (tech stack)  
-- 🔹 **[Project Name 3](#)** – Short description (tech stack)  
+- 🔹 **Online coffee shop** – This coffee shop project is set to bring the café experience online by offering freshly roasted coffee, convenient delivery, and a user-friendly shopping experience. It aims to connect coffee lovers with high-quality beans sourced sustainably, while making it easier than ever to enjoy great coffee at home or on the go. The project also sets out to build a community of coffee enthusiasts through personalized recommendations, subscription options, and engaging content that educates customers about brewing and coffee culture.  
 
 ---
 
