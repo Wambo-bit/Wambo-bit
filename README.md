@@ -25,8 +25,8 @@ I am passionate about working on projects related to Web Development, Mobile App
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   
   <!-- Frameworks -->
-    <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     
