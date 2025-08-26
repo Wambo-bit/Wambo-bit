@@ -48,7 +48,7 @@ I am passionate about working on projects related to Web Development, Mobile App
 
 ## 🌱 Current Learning Journey  
 - Mastering **Backend Development (Python, Django,Databases)**  
-- Building **Responsive Frontend Interfaces **  
+- Building Responsive Frontend Interfaces  
 
 ---
 
